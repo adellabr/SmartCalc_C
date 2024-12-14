@@ -1,5 +1,8 @@
-# SmartCalc_C
-Implementation of an extended version of the standard calculator with graph plotting capabilities using the C programming language
+# SmartCalc Documentation
+
+## Copyright Information
+This calculator is protected by copyright. All rights reserved.
+© 2024 by adellabr.
 
 ## Installation
 To use this calculator, the user needs to install the following utilities:
@@ -9,10 +12,6 @@ To use this calculator, the user needs to install the following utilities:
 
 ## Development Details
 The calculator has been developed using the C/C++ programming language and the QT Creator version 6.2.
-
-This project is implemented using Dijkstra's algorithm.. Edsger Dijkstra invented an algorithm for converting expressions (including functions) from infix to Reverse Polish notation. The algorithm was named the "shunting-yard algorithm".
-
-The Shunting-yard algorithm is stack-based. There are two text variables involved in the conversion: the input and the output string. The conversion process uses the stack to store operations not yet added to the output string. The conversion program sequentially reads each token from the input string and on each step does some actions based on which tokens have been read.
 
 ## Installation Command
 To install the calculator, please run the following command:
@@ -53,5 +52,5 @@ The calculator includes various mathematical functions, including:
 
 
 ## Function Plotting
-The calculator provides the ability to plot functions. Plotting a graph of a function given by an expression in infix notation with the variable _x_ (with coordinate axes, mark of the used scale and an adaptive grid)
-You can visualize mathematical equations easily.
+The calculator provides the ability to plot functions. You can visualize mathematical equations easily.
+
