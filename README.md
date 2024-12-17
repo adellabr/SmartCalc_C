@@ -1,6 +1,8 @@
 # SmartCalc_C
 Implementation of an extended version of the standard calculator with graph plotting capabilities using the C programming language
 
+![image](misc/SmartCalc.png)
+
 ## Installation
 To use this calculator, the user needs to install the following utilities:
 - `gcc`
